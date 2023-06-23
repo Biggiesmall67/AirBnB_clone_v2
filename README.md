@@ -161,4 +161,4 @@ There should be one project repository per group. If you clone/fork/whatever a p
 
 More Info
 
-img/hbnb_step2.png
+https://github.com/Biggiesmall67/AirBnB_clone_v2/blob/master/img/hbnb_step2.png
