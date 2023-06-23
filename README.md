@@ -18,7 +18,7 @@ During this project, you will learn how to manipulate HTML and CSS languages. HT
 
 Before starting, please fork or clone the repository AirBnB_clone from your partner if you were not the owner of the previous project.
 
-https://github.com/Biggiesmall67/AirBnB_clone_v2/blob/master/img/hbnb_step1.png
+![alt text](https://github.com/Biggiesmall67/AirBnB_clone_v2/blob/master/img/hbnb_step1.png)
 =======
 
 <center> <h1>HBNB - AirBnB clone -MySQL</h1> </center>
@@ -184,7 +184,7 @@ There should be one project repository per group. If you clone/fork/whatever a p
 
 More Info
 
-https://github.com/Biggiesmall67/AirBnB_clone_v2/blob/master/img/hbnb_step2.png
+![alt text](https://github.com/Biggiesmall67/AirBnB_clone_v2/blob/master/img/hbnb_step2.png)
 =======
 <center> <h1>HBNB - The Console</h1> </center>
 
