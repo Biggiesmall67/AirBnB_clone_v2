@@ -1,4 +1,4 @@
-<<<<<<<<<<AirBnB Clone Project
+# AirBnB Clone Project
 
 # AirBnB_clone
 
